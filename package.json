@@ -1,0 +1,25 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkshaY7798953555/MernStackDeveloper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AkshaY7798953555/MernStackDeveloper/issues"
+  },
+  "homepage": "https://github.com/AkshaY7798953555/MernStackDeveloper#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "index.js": "^0.0.3",
+    "mongoose": "^7.0.3",
+    "nodemon": "^2.0.22"
+  }
+}
